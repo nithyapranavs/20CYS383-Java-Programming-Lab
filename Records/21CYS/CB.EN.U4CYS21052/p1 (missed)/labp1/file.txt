@@ -1,0 +1,4 @@
+this is a text file
+I made a text editior on my own
+using java language
+
